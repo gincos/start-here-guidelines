@@ -8,7 +8,7 @@ Guidelines on how this open source community works. Most information is from the
 
 **3**. Sing up for a project you would like to contribute to: nd here you sign up https://drive.google.com/open?id=1CXkfqNtYlHitkGoCuXTjxtt6DP6qwmZ1YWSyynr2AL0
 
-**4**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
+**4**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project(s). (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
 
 **5**. Go join a project and start contributing. This is a community to experiment and see what we create. Don't be shy and enjoy creating things together!
 
